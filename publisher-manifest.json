@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a4757171b0999df792990805",
+  "owner": "jaxqghhgjxu",
+  "repo": "page-914f9a5e64ade3078983c11a",
+  "title": "WUXX",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "914f9a5e64ade3078983c11a",
+      "a": "WUXX",
+      "b": "2027最新官网",
+      "entity": "WUXX",
+      "brand": "WUXX",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1e7d4f034a3c370ab86909362ee38c45b9a7c668cdc32cf882d0b7922c0b7e35",
+      "content": {
+        "primary_entity": "WUXX",
+        "keyword1": "WUXX",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择适配客户端，Windows、macOS、iOS、Android 与路由器各有对应的订阅导入方式。",
+          "AI_CLIENTS_TITLE": "各设备可用客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，按客户端文档完成订阅导入即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，流畅起步",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，帮助不同人数和流量需求的用户找到合适的方案。基础版适合单人三设备，旗舰版适合多设备流媒体与游戏加速，团队版面向二十台设备与企业定制路由场景。月付灵活，年付方案价格更低，客户端覆盖主流系统，按文档导入订阅即可连接。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备并发和订阅周期三个角度选择，能覆盖大多数日常使用场景。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合单人轻量浏览，旗舰版 300GB 适配流媒体与游戏，团队版 1000GB 满足多人共享。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_2": "三台、五台到二十台设备的并发上限逐步提升，可按家庭或团队实际连接数量选择对应版本。",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长周期使用成本更低。",
+          "AI_FEATURE_TITLE_3": "按月付或年付",
+          "AI_GUIDE_INTRO": "从确认需求到完成配置，按顺序处理可以减少试错成本。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "WUXX 提供多档海外加速套餐，覆盖基础浏览到团队协作场景。根据设备数量、月流量与订阅周期选择版本，再按客户端文档导入订阅即可连接使用，年付方案在长期使用中更经济。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "月付年付灵活切换",
+          "AI_HIGHLIGHT_3": "多平台客户端配置支持",
+          "AI_PLANS_INTRO": "基础版 ¥15/月提供 100GB 与三台设备；旗舰版 ¥35/月提供 300GB、五台设备及 IPLC 专线游戏加速；团队版 ¥85/月提供 1000GB 与二十台设备。年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认日常连接设备数量和每月大致流量，再对照三档套餐的并发上限与流量额度。",
+          "AI_STEP_TITLE_1": "确定使用需求",
+          "AI_STEP_TEXT_2": "查看所选套餐对操作系统和路由器的适配说明，确认常用设备是否在支持范围内。",
+          "AI_STEP_TITLE_2": "核对设备适配",
+          "AI_STEP_TEXT_3": "按照对应客户端的配置文档导入订阅信息，完成连接参数设置后即可使用。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "WUXX 海外加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、套餐升级与付费周期。",
+          "AI_FAQ_QUESTION_1": "WUXX 的订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_1": "获取订阅链接后，打开你所用的客户端，找到订阅导入或添加配置的入口，粘贴链接并更新即可。不同客户端的操作路径略有差异，可参照相应客户端的文档说明。",
+          "AI_FAQ_QUESTION_2": "基础版、旗舰版和团队版的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，并提供 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备，包含 VIP 专属高带宽节点和企业定制路由。",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量超过套餐上限会怎样？",
+          "AI_FAQ_ANSWER_3": "套餐按同时在线设备数设定上限，超出后新设备可能无法连接。可以在授权设备中退出部分连接，或者升级到设备数量更多的档位，例如从基础版切换到旗舰版或团队版。",
+          "AI_FAQ_QUESTION_4": "年付和月付在费用上有什么不同？",
+          "AI_FAQ_ANSWER_4": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付相当于一次性支付全年费用，适合确定长期使用的用户。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景使用？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量，支持 20 台设备同时在线，并提供 VIP 专属高带宽节点和企业定制路由，适合设备数量较多、流量需求较高的团队协作场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yiyo-3v4gm16f8flst8a.com",
+    "host": "xn--yiyo-3v4gm16f8flst8a.com"
+  },
+  "file_hashes": {
+    "index.html": "dd67a4e20f709b18e28a00931fcd2b22fb952e01850f8423f634419722d5627f",
+    "sitemap.xml": "12ea7eb37062776a3dbdcdb26758a9cc84aa92cb83f13bc722acfca6121b1826",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "591453924f55b7448a5e9596559cb42873c3cb5107780847534071c7c053c142",
+    "robots.txt": "f182d20920c74996ba141a61345dcae37d054503d1e6efa33b5e8d29962feb62",
+    "8c7dee8cd939296dd1b920438edce1dc.txt": "3d5951fafacc6f45a9c6891df3468bdcaca1825134fc12bf626a410859e0e45d"
+  },
+  "revision": "645206383c91b8380dda0b8e37b2a572b10cb3e8da527e81cbf644a68aa7b412"
+}
